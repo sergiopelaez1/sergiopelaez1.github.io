@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sergiopelaez1.github.io/talk/example-talk/</loc>
+    <loc>http://localhost:4321/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/event/</loc>
+    <loc>http://localhost:4321/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/post/blog-with-jupyter/</loc>
+    <loc>http://localhost:4321/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/post/</loc>
+    <loc>http://localhost:4321/post/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/tag/academic/</loc>
+    <loc>http://localhost:4321/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/category/demo/</loc>
+    <loc>http://localhost:4321/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/post/getting-started/</loc>
+    <loc>http://localhost:4321/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:4321/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:4321/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/post/writing-technical-content/</loc>
+    <loc>http://localhost:4321/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication/preprint/</loc>
+    <loc>http://localhost:4321/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication-type/article/</loc>
+    <loc>http://localhost:4321/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/tag/source-themes/</loc>
+    <loc>http://localhost:4321/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/slides/</loc>
+    <loc>http://localhost:4321/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/slides/example/</loc>
+    <loc>http://localhost:4321/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/tag/deep-learning/</loc>
+    <loc>http://localhost:4321/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/tag/demo/</loc>
+    <loc>http://localhost:4321/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/project/example/</loc>
+    <loc>http://localhost:4321/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/project/external-project/</loc>
+    <loc>http://localhost:4321/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/project/</loc>
+    <loc>http://localhost:4321/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication/journal-article/</loc>
+    <loc>http://localhost:4321/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication-type/article-journal/</loc>
+    <loc>http://localhost:4321/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication/conference-paper/</loc>
+    <loc>http://localhost:4321/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://sergiopelaez1.github.io/publication-type/paper-conference/</loc>
+    <loc>http://localhost:4321/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
