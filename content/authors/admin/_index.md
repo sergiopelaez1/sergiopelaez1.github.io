@@ -11,7 +11,7 @@ education:
   - course: BA in Economics & BA in Business
     institution: Universidad Autonoma de Manizales
     year: 2015
-email: "sergiopelaezsierra@gmail.com"
+email: "spelaez3@gatech.edu"
 highlight_name: true
 interests:
 - Business innovation and innovation policy
@@ -56,7 +56,7 @@ skills:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sergiopelaezsierra@gmail.com'
+  link: 'mailto:spelaez3@gatech.edu'
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=nqzrKUwAAAAJ&hl=en
