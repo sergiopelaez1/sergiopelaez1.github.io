@@ -9,6 +9,7 @@ sections:
 - block: collection
   content:
     title: Peer-Reviewed Publications
+    count: 0
     filters:
       folders:
         - publication
@@ -22,6 +23,7 @@ sections:
 - block: collection
   content:
     title: Preprints & Working Papers
+    count: 0
     filters:
       folders:
         - publication
@@ -35,6 +37,7 @@ sections:
 - block: collection
   content:
     title: Work in Progress
+    count: 0
     filters:
       folders:
         - publication
@@ -48,8 +51,7 @@ sections:
 - block: contact
   content:
     title: Contact
-    text: Feel free to reach out for research collaborations, consulting opportunities, or questions about my work.
-    email: sergiopelaezsierra@gmail.com
+    email: spelaez3@gatech.edu
     autolink: true
   design:
     columns: '2'
