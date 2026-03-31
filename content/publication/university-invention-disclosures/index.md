@@ -5,6 +5,11 @@ authors:
   - 'Jeongyoon Yang'
   - 'John P. Walsh'
   - 'Marco Ceccagnoli'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
 date: '2024-01-01T00:00:00Z'
 publishDate: '2024-01-01T00:00:00Z'
 publication_types:
