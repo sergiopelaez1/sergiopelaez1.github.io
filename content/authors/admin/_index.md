@@ -63,9 +63,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sergio-pelaez-148690147/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sergiopelaezsierra
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
