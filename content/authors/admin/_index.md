@@ -72,6 +72,6 @@ superuser: true
 title: Sergio Pelaez
 ---
 
-I am a Research Fellow at the Inter-American Development Bank (IDB), where I investigate the drivers and effects of business innovation and innovation policy, employing causal inference, machine learning, and administrative microdata. I hold a Ph.D. in Public Policy from the Georgia Institute of Technology. I also maintain a parallel research agenda focused on emerging technologies, applying natural language processing to analyze unstructured data from patents, academic publications, and policy documents.
+I am a Research Fellow at the Inter-American Development Bank (IDB) and hold a Ph.D. in Public Policy from the Georgia Institute of Technology. At the IDB, I investigate the drivers and effects of business innovation and innovation policy, employing causal inference, machine learning, and administrative microdata. I also maintain a parallel research agenda focused on emerging technologies, applying natural language processing to analyze unstructured data from patents, academic publications, and policy documents.
 
 {style="text-align: justify;"}
