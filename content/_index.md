@@ -22,6 +22,20 @@ sections:
 
 - block: collection
   content:
+    title: Forthcoming
+    count: 0
+    filters:
+      folders:
+        - publication
+      tag: 'forthcoming'
+    sort_by: 'Date'
+    sort_ascending: false
+  design:
+    view: citation
+  id: forthcoming
+
+- block: collection
+  content:
     title: Preprints & Working Papers
     count: 0
     filters:
