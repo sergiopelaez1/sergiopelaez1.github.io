@@ -5,6 +5,11 @@ authors:
   - 'Gaurav Verma'
   - 'Barbara Ribeiro'
   - 'Philip Shapira'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
 date: '2024-01-01T00:00:00Z'
 doi: '10.1162/qss_a_00285'
 publishDate: '2024-01-01T00:00:00Z'
