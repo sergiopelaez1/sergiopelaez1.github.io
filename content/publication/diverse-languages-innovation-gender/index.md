@@ -10,8 +10,8 @@ author_notes:
   - 'Equal contribution'
   - ''
   - ''
-date: '2024-01-01T00:00:00Z'
-publishDate: '2024-01-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 publication_types:
   - article
 publication: 'Under Review at *Quantitative Science Studies*'
