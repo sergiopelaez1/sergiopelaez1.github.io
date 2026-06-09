@@ -5,7 +5,7 @@ education:
   - course: PhD in Public Policy (Science & Technology Policy)
     institution: Georgia Institute of Technology
     year: 2025
-  - course: MA in Economics of Public Policy
+  - course: MA in Economics
     institution: Universidad del Rosario
     year: 2018
   - course: BA in Economics & BA in Business
