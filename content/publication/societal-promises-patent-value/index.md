@@ -5,9 +5,9 @@ authors:
   - 'Gaurav Verma'
   - 'Barbara Ribeiro'
   - 'Philip Shapira'
-date: '2026-10-01T00:00:00Z'
+date: '2026-06-01T00:00:00Z'
 doi: '10.1016/j.respol.2026.105566'
-publishDate: '2026-10-01T00:00:00Z'
+publishDate: '2026-06-01T00:00:00Z'
 publication_types:
   - article-journal
 publication: '*Research Policy*, 55, 105566'

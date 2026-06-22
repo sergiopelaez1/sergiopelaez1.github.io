@@ -6,9 +6,9 @@ authors:
   - 'Naseeb Souweidane'
   - admin
   - 'Gordon Kingsley'
-date: '2026-10-01T00:00:00Z'
+date: '2026-06-01T00:00:00Z'
 doi: '10.1016/j.techfore.2026.124783'
-publishDate: '2026-10-01T00:00:00Z'
+publishDate: '2026-06-01T00:00:00Z'
 publication_types:
   - article-journal
 publication: '*Technological Forecasting and Social Change*, 231, 124783'
